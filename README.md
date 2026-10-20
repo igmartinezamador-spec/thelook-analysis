@@ -4,7 +4,7 @@
 | Entregable | Estado |
 |---|---|
 | Consultas SQL (`sql/`) | Hecho, ejecutadas en BigQuery Sandbox (proyecto propio de Google Cloud) |
-| Google Sheets con agregados | Hecho (7 hojas; privado, no se publica) |
+| Google Sheets con agregados | Hecho y publicado: [ver hojas](https://docs.google.com/spreadsheets/d/1rDu9GygHCRihEkZaXuHOwG2lNknw5lLaq1LQd8YSxgk/edit) (7 hojas, solo lectura) |
 | Controles de calidad | Hecho (`docs/qc_log.md` y hoja `qc_log`) |
 | Diccionario / supuestos | Hecho (`docs/metrics_dictionary.md`) |
 | Informe ejecutivo | Hecho (`docs/informe_ejecutivo.md`) |
