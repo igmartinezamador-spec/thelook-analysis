@@ -9,6 +9,6 @@
 | Diccionario / supuestos | Hecho (`docs/metrics_dictionary.md`) |
 | Informe ejecutivo | Hecho (`docs/informe_ejecutivo.md`) |
 | Guía de reproducción | Hecho (`docs/guia_reproduccion.md`) |
-| Dashboard Looker Studio | Hecho y guardado en Looker Studio (privado, sin enlace público). Fuente: hoja `fact_mes_pais_categoria`. 4 scorecards (ventas brutas, valor devuelto, líneas vendidas, tasa de devolución), gráfico mensual de ventas, tabla por país y filtros de período, categoría y país. Tema "Acentuado" aplicado y etiquetas en español (Categoría, País) |
+| Dashboard Looker Studio | Hecho y publicado: [ver dashboard](https://datastudio.google.com/u/0/reporting/a5e05fce-c19e-4c1f-a2a0-0f2b4a3d3cce/page/TlJ0C) (solo lectura). Fuente: hoja `fact_mes_pais_categoria`. 4 scorecards (ventas brutas, valor devuelto, líneas vendidas, tasa de devolución), gráfico mensual de ventas, tabla por país y filtros de período, categoría y país. Tema "Acentuado" aplicado y etiquetas en español (Categoría, País) |
 
 Datos sintéticos. Ver límites en el informe.
